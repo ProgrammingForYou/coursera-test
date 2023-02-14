@@ -1,5 +1,8 @@
 # coursera-test
 Coursera test repository 
+
+`This is my code for the Read Me file.`
+
 - First item
 - Second item
 - Third item
