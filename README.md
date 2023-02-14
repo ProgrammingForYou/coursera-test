@@ -12,8 +12,8 @@ Coursera test repository
 - **bold text**
 - # H1 ## H2 ### H3
 - --- is a horizontal rule
-- This is a link: [title](https://www.example.com)
-- This is an image: ![alt text](image.jpg)
+- This is a link: [http://www.github.com](https://www.example.com)
+- This is an image: ![The title of an image](image.jpg)
 
 1. This is an ordered list
 2. Second item
