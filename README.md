@@ -7,8 +7,15 @@ Coursera test repository
 
 - This is an unordered list
 - I used the tilda key (`) on the keyboard to write what I want the computer screen to show
-- This is a blockquote: > blockquote
+- This is a blockquote: > blockquote. Anything that you put behind the > symbol with be indented
+- *italicized text*
+- **bold text**
+- # H1 ## H2 ### H3
+- --- is a horizontal rule
+- This is a link: [title](https://www.example.com)
+- This is an image: ![alt text](image.jpg)
+
 1. This is an ordered list
 2. Second item
 
- > blockquote 
+ > This is a blockquote. If I write a lot of information it will be indented. Blockquotes are used to quote a person's word verbatim or exactly as they spoke 
